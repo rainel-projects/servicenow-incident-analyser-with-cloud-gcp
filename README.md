@@ -76,10 +76,14 @@ The entire solution runs on **Google Cloud Free Tier**, provisioned with **Infra
 - Terraform installed locally (`>= 1.6`)
 - Python 3.10+ (for Cloud Function)
 
+<img width="940" height="473" alt="image" src="https://github.com/user-attachments/assets/5df1cc69-63a6-4144-8ece-921c4838e07b" />
+<img width="940" height="477" alt="image" src="https://github.com/user-attachments/assets/6456e410-74fc-4369-a559-bf287226a65c" />
+<img width="940" height="504" alt="image" src="https://github.com/user-attachments/assets/5e968305-5f31-4f4d-8562-7ba6e304ac67" />
+
+
 ### 2️⃣ Configure Environment
 ```bash
 gcloud init
 gcloud auth application-default login
-
 
 
